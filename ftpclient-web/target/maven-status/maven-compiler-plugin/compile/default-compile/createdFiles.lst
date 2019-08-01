@@ -1,0 +1,4 @@
+com\bjsxt\service\UploadService.class
+com\bjxt\utils\FtpUtil.class
+com\bjsxt\controller\UploadController.class
+com\bjsxt\service\impl\UploadServiceImpl.class
